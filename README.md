@@ -13,6 +13,10 @@ Protecting sensitive data—such as passwords, usernames, and database credentia
 
 This process minimizes security risks by ensuring that your critical data is stored locally and not in its original form on the server.
 
+## Challenge:
+
+The program contains several layers of encoding, converting and moving symbols and characters, so the reversible process is very complicated.
+
 ## Package Contents
 
 - **Linux Encoder**: `linux/encode`
