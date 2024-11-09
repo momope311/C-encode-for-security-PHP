@@ -13,6 +13,10 @@ Zaštita osetljivih podataka — poput lozinki, korisničkih imena i pristupnih 
 
 Ovaj proces minimizuje sigurnosne rizike osiguravajući da su vaši kritični podaci sačuvani lokalno i da nisu prisutni u izvornom obliku na serveru.
 
+## Izazov
+
+Program sadrži nekoliko slojeva kodiranja, pretvaranja i pomeranja simbola i karaktera, tako da je reverzibilni proces jako komplikovan.
+
 ## Sadržaj Paketa
 
 - **Linux Enkoder**: `linux/encode`
